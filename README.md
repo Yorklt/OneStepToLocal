@@ -13,6 +13,7 @@
 編集モードやオブジェクトモードでも使えますが、ポーズモードほど出番は無いと思います。
 <br>
 <br>
+![ButtonsImage](https://raw.githubusercontent.com/Yorklt/OneStepToLocal/main/ButtonsImage.png?token=GHSAT0AAAAAAB4KJD5SLORBC5TGLAFF542IY5AGFFA "ButtonsImage")
 
 # インストール
 ZIPファイルは解凍しなくて大丈夫です。
