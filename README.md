@@ -8,12 +8,12 @@
 ポーズモードでボーンを操作するときに、座標系のグローバルとローカルを頻繁に切り替える必要があるのですが、
 現状特にショートカットも無く（無いよね？）、手間がかかるので、クリックしやすい大きなボタンを用意しました。
 ついでに、回転と移動も同じタブで切り替えられるようにしました。
+ButtonsImage.png見てみてください。
 <br>
 <br>
 編集モードやオブジェクトモードでも使えますが、ポーズモードほど出番は無いと思います。
 <br>
 <br>
-![ButtonsImage](https://raw.githubusercontent.com/Yorklt/OneStepToLocal/main/ButtonsImage.png?token=GHSAT0AAAAAAB4KJD5SLORBC5TGLAFF542IY5AGFFA "ButtonsImage")
 
 # インストール
 ZIPファイルは解凍しなくて大丈夫です。
