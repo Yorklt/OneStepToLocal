@@ -4,12 +4,11 @@ import bpy
 bl_info = {
     "name": "One Step to Local",
     "author": "Pon Pon Games",
-    "version": (0, 1),
-    "blender": (3, 4, 0),
+    "version": (1, 0),
+    "blender": (4, 1, 1),
     "location": "3D Viewport > View > Sidebar (N key) > GLMR",
     "description": "This adds buttons that switches transform orientation between Global and Loacal.",
     "warning": "Not enough debugging. This addon can cause crashes.",
-    "support": "TESTING",
     "doc_url": "",
     "tracker_url": "",
     "category": "3D View"
